@@ -9,7 +9,7 @@ to turn complex manual workflows into practical software products.
 ## What I'm building
 
 ### DropOS
-Operational infrastructure for high-demand retail launches — registrations,
+Operational infrastructure for high-demand retail launches: registrations,
 waitlists, allocations, reservations, QR verification, queue management,
 launch-day operations and analytics.
 
@@ -21,7 +21,7 @@ focus: local businesses in the UAE.
 
 ### BookWiser
 A booking and business-operations platform explored for service-led
-businesses — appointments, staff, customers, payments, reporting and
+businesses: appointments, staff, customers, payments, reporting and
 operational workflows.
 
 ## How I build
@@ -31,7 +31,7 @@ software while remaining closely involved in product strategy, workflow
 design, architecture decisions, testing and commercial direction.
 
 This is founder-led building, supported by AI tools and grounded in real
-operational problems — not a claim to years of traditional
+operational problems, not a claim to years of traditional
 software-engineering experience.
 
 ## Operational experience
