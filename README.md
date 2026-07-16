@@ -53,10 +53,11 @@ Next.js · TypeScript · React · Tailwind CSS · Supabase · PostgreSQL · Verc
 - Publishing product case studies for DropOS, LocalLens AI and BookWise
 - Speaking with early users, partners and early-stage investors
 
-## Links
+## Featured work
 
-*(Reserved — LinkedIn, founder/personal website, and product website links
-to be added once you confirm them. Nothing invented here.)*
+- [GitHub profile](https://github.com/gracehicksbuilds)
+- [DropOS product case study](https://github.com/gracehicksbuilds/dropos-product-case-study)
+- [LocalLens AI product case study](https://github.com/gracehicksbuilds/locallens-ai-product-case-study)
 
 ---
 
