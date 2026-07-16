@@ -15,9 +15,9 @@ launch-day operations and analytics.
 
 ### LocalLens AI
 An AI-powered platform helping local businesses create UGC-style video
-campaigns — localised scripts, captions, creator directions, campaign
-templates and video-generation workflows. Initial focus: local businesses
-in the UAE.
+campaigns with scripts shaped by their offer, audience, location and tone,
+alongside captions, creator directions and campaign templates. Initial
+focus: local businesses in the UAE.
 
 ### BookWise
 A booking and business-operations platform explored for service-led
