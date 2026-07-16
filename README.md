@@ -19,7 +19,7 @@ campaigns with scripts shaped by their offer, audience, location and tone,
 alongside captions, creator directions and campaign templates. Initial
 focus: local businesses in the UAE.
 
-### BookWise
+### BookWiser
 A booking and business-operations platform explored for service-led
 businesses — appointments, staff, customers, payments, reporting and
 operational workflows.
@@ -50,7 +50,7 @@ Next.js · TypeScript · React · Tailwind CSS · Supabase · PostgreSQL · Verc
 
 - Advancing DropOS as an operational platform for high-demand retail launches
 - Developing LocalLens AI's video-generation workflow
-- Publishing product case studies for DropOS, LocalLens AI and BookWise
+- Publishing product case studies for DropOS, LocalLens AI and BookWiser
 - Speaking with early users, partners and early-stage investors
 
 ## Featured work
@@ -58,6 +58,7 @@ Next.js · TypeScript · React · Tailwind CSS · Supabase · PostgreSQL · Verc
 - [GitHub profile](https://github.com/gracehicksbuilds)
 - [DropOS product case study](https://github.com/gracehicksbuilds/dropos-product-case-study)
 - [LocalLens AI product case study](https://github.com/gracehicksbuilds/locallens-ai-product-case-study)
+- [BookWiser product case study](https://github.com/gracehicksbuilds/bookwiser-product-case-study)
 
 ---
 
