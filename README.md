@@ -1,4 +1,4 @@
-# Hi, I'm Grace Kibe-Hicks
+# Hi, I'm Grace 
 
 **Founder and AI Product Builder**
 Based in Dubai, UAE
